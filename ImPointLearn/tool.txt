@@ -1,0 +1,33 @@
+install concurrently(npm install -g concurrently) .It help help to run multiple server at a time 
+we required concurrently beacuse we have to run searver 1(react ) and server2(backend)
+backend means learning of MERN stack together
+E=express it is frame work of node js web freamworkR
+R=react client server UI 
+Nodejs= backend server language
+to make backend server first make nodemodule,package.json folder using(npm init ) install nodemon and with the help of express make server
+install mongoess packeage to connent servear with mangosee(npm i mongoose) make a db file which connect which have a function connent with databaase 
+make index.js file to entry point of backend
+thunder client is app(extension) which help to {make new request and get response on url}
+MONGOOSDB_COMPASS :it is platform which show connnection of data to database (tool for view data,connection and many more)
+MONGOOSEDB_ATLAS:It is a platform to write comment and add data to database and other editable tool provide in this software 
+MONGOOSDB_SERVER:it is servver of database which connet with database (it is madsatory on )
+MONGOOSDB_SHEEL:it is terminl which provide inteface to write commit and work with database
+CLLBACK:it is function which is pass as arugumet in another function,it run when function ohter task complete ,after completetion of function ,callback function is run
+NODEMON:its is package  which hit the server ,whenever something is updated in backen file
+RUNNING BACKEND:nodemon <file_name/file_path>
+SCHEMA: its is data filed and validation rule in database,variable,function 
+MODEL: its is class in database 
+COLLECTION: its is object in database
+DATABASE_POINT:{"databse":"5 databse persent now which have name admin,congig,inotebook,local,test","syntex":"alway taka data in in the form of jSON","json":"it purly object","colletion":"it si mandatory to create collection/object in databse to insert any data in database "}
+THUNDERCALIENT: url start with localhost(not from http://www)
+await  : used before method
+asyn: used before function
+MIDDLE_wARE:it is function which call at each time whenever {login is required}
+AUTHtOkEN: we have to send it frome req .header se (req.header me without string key and mess ko pass karo)
+kisi user me note add karne ke liye hame pahle user route se login karo ,bhir AUTHtOkEN ke sath note add data ko send karo
+content type+= application json is madsatory
+route me : ye batata hai ki : ke baad vali chijo ko param used kar ke get kiya jaata hai 
+RUN BOTH USING :npm run both(because this code made by us manually)
+ALWAY FACING PROBLEM IN CONNECTION WITH MANGOS 
+    1.go to services and  refresh-> go to mongosse and start
+noteprovider =notestate    
